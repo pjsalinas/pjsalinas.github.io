@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://pjsalinas.github.io/post/first-post/</loc>
-    <lastmod>2022-03-16T07:05:32-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://pjsalinas.github.io/</loc>
-    <lastmod>2022-03-16T07:05:32-04:00</lastmod>
+    <lastmod>2022-03-16T07:50:08-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://pjsalinas.github.io/post/</loc>
+    <lastmod>2022-03-16T07:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pjsalinas.github.io/post/second-post/</loc>
+    <lastmod>2022-03-16T07:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pjsalinas.github.io/post/first-post/</loc>
     <lastmod>2022-03-16T07:05:32-04:00</lastmod>
   </url>
   

@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pjsalinas</title>
+    <title>pjsalinas Blog</title>
     <link>http://pjsalinas.github.io/</link>
-    <description>Recent content on pjsalinas</description>
+    <description>Recent content on pjsalinas Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Mar 2022 11:31:13 -0500</lastBuildDate>
     
 	<atom:link href="http://pjsalinas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello World Post</title>
-      <link>http://pjsalinas.github.io/posts/2022/hello-world-post/</link>
-      <pubDate>Wed, 02 Mar 2022 11:31:13 -0500</pubDate>
-      
-      <guid>http://pjsalinas.github.io/posts/2022/hello-world-post/</guid>
-      <description>Heading Heading Heading Heading Heading Heading tables
-   header 1 header 2 header 3     content 1 content 2 content 3    list
- first second third  </description>
-    </item>
-    
-    <item>
-      <title>The First Post Title</title>
-      <link>http://pjsalinas.github.io/blog/2022/first-post/</link>
-      <pubDate>Wed, 02 Mar 2022 11:04:00 -0500</pubDate>
-      
-      <guid>http://pjsalinas.github.io/blog/2022/first-post/</guid>
-      <description>The first post content function ( x, y ) { return y * x; } </description>
-    </item>
     
   </channel>
 </rss>

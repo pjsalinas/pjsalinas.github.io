@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Home Page on Anything About Everything</title>
-    <link>https://pjsalinas.github.io/</link>
-    <description>Recent content in Blog Home Page on Anything About Everything</description>
+    <title>Blogs on Anything About Everything</title>
+    <link>https://pjsalinas.github.io/blog/</link>
+    <description>Recent content in Blogs on Anything About Everything</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Mar 2022 19:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Mar 2022 22:57:14 -0400</lastBuildDate>
     
-	<atom:link href="https://pjsalinas.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pjsalinas.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,17 +27,6 @@
       
       <guid>https://pjsalinas.github.io/blog/2022/week-summary-template-example/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://pjsalinas.github.io/about/</link>
-      <pubDate>Thu, 17 Mar 2022 19:02:21 -0400</pubDate>
-      
-      <guid>https://pjsalinas.github.io/about/</guid>
-      <description>Do you known me? Do I know you? I don&amp;rsquo;t know you, and you don&amp;rsquo;t know me.
-Well, &amp;hellip;nice to meet you
-I am an entusiastic person about science, tech, computers, software, and exercise. Check some of my projects, and ideas to see what I can do or where I am wasting my time.</description>
     </item>
     
     <item>
